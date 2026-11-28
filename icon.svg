@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64">
+  <!-- Colophon mark: serif S on ink, underscored by the accent rule that carries
+       meaning across the site. Chosen because it survives 16px, which is the only
+       size that actually matters in a browser tab. -->
+  <rect width="64" height="64" rx="10" fill="#16150f"/>
+  <text
+    x="32" y="43"
+    text-anchor="middle"
+    font-family="Georgia, 'Times New Roman', Times, serif"
+    font-size="40"
+    font-weight="600"
+    fill="#fbfaf8"
+  >S</text>
+  <line x1="20" y1="52" x2="44" y2="52" stroke="#9b2c2c" stroke-width="4" stroke-linecap="round"/>
+</svg>

@@ -1,0 +1,5 @@
+User-Agent: *
+Allow: /
+
+Host: https://shrini.tuvisminds.com
+Sitemap: https://shrini.tuvisminds.com/sitemap.xml
